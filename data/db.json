@@ -1,0 +1,28 @@
+{
+    "careers": [
+        {
+            "id": 1,
+            "title": "Senior React Developer",
+            "salary": 50000,
+            "location": "London, UK"
+        },
+        {
+            "id": 2,
+            "title": "Senior React Developer",
+            "salary": 50000,
+            "location": "London, UK"
+        },
+        {
+            "id": 3,
+            "title": "Senior React Developer",
+            "salary": 50000,
+            "location": "London, UK"
+        },
+        {
+            "id": 4,
+            "title": "Senior React Developer",
+            "salary": 50000,
+            "location": "London, UK"
+        }
+    ]
+}
